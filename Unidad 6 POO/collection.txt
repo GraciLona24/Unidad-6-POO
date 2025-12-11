@@ -1,0 +1,14 @@
+id|nombre|categoria|anio|creador|calificacion
+1|Aoi|Personaje|2020|Autor X|8.5
+2|Bisho|Personaje|2018|Estudio Y|9.0
+3|Crescent Song|Canción|2021|Banda Z|7.5
+4|Drako Lance|Arma|2016|Forjador K|8.8
+5|Eureka|Libro|2019|Escritor Q|9.2
+6|Alas de Sangre|Libros|2023|Rebecca Yarros|10.0
+7|Madonna|Musica|2024|Natanael Cano y Oscar Maydon|10.0
+8|Alas de sangre|Libros|2023|Rebecca Yarros|10.0
+9|Maddona|Musica|2024|Natanael Cano y Oscar Maydon|10.0
+10|Alas de Sangre|Librros|2023|Rebecca Yarros|10.0
+11|Madonna|Musica|2024|Natanael Cano y Oscar Maydon|10.0
+12|Pesadilla en el infierno|Peliculas|2018|Pascal Laugier|10.0
+13|Mortal Kombat|Videojuegos|1992|Ed Boon y John Tobias|9.0
